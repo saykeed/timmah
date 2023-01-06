@@ -1,0 +1,17 @@
+:root {
+	--primary: #EA7600;
+	--secondary: #FFC29E;
+	--tertiary: #D3BC8D;
+	--stroke: #A39382;
+	--light-gray: #5E514D;
+	--dark-gray: #E24B40;
+	--light-blue: #6BBBAE;
+	--yellow: #F1C400;
+	--app-green: #A8A800;
+	--success: #00AC45;
+    --error: #FF3436;
+    --warning: #F4ED48;
+	--balablu: #4E87A0;
+	--overlay: rgba(46,57,83,.79);
+}
+

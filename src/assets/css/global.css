@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+* {
+    font-family: 'Lato', sans-serif;
+    
+  }
+
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-padding: 4rem;
+	-webkit-tap-highlight-color: transparent;
+}
+
+
+
+
+
+
